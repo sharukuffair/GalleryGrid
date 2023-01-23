@@ -89,6 +89,7 @@ h1 {
 p {
   margin-top: 8rem;
   font-size: 14px;
+  margin-bottom: 2rem;
 }
 p > a {
   text-decoration: none;
